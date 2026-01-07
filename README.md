@@ -26,6 +26,8 @@ Data Visualization- PowerBi BI, Excel and MySQL
 i build Dashboard and reporting Visuals that helps stakeholders make quicker decisions and faster decisions. [Click Here](https://www.linkedin.com/in/dalamu-oluwatosin-a36127283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Data Analytics Training
 
-## Project
+## My Project
 
 ## Contacts
+Email: dalamu.oluwatosin@gmail.com
+Phone Number: +2348058596046,+2347037814253
