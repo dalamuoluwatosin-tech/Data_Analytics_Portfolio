@@ -1,1 +1,24 @@
 # Data_Analytics_Portfolio
+## About
+Hello, My name is Oluwatosin Dalamu
+I am a Data Analyst and Payroll Processing by profession.
+i have a strong background in data analytics, payroll management. I am confident in my ability to analyze data and also process Payroll
+
+I have:
+
+Developed and maintained accurate payroll systems, ensuring timely and error-free salary disbursements.
+
+Utilized  Excel,PowerBi and other data analytics tools to process, analyze, and report business-critical data.
+
+Designed reports and dashboards that improved decision-making and optimized operational efficiency.
+
+Collaborated with cross-functional teams to streamline data management and payroll processes.
+
+My combination of analytical expertise and hands-on payroll experience allows me to approach tasks both technically and strategically. I take pride in my attention to detail, problem-solving abilities, and commitment to accuracy—qualities essential for managing sensitive payroll data and complex datasets.
+
+I will be happy to bring my skills to your company, contribute to improving data-driven decision-making and payroll efficiency. I would welcome the chance to discuss how my experience aligns with your needs in more detail.
+
+Thank you 
+
+Sincerely,
+Oluwatosin A. Dalamu
