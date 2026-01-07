@@ -18,10 +18,17 @@ Thank you
 Data Visualization- PowerBi BI, Excel and MySQL
 ![Image](Screenshot (1).png)
 ![IMAGE](HR ATTRITION DASHBOARD.png)
+![IMAGE](Payroll Processing.png)
+![image](ABC Sales Performance Dashboard.png)
+![image](PRIME STAR CHURN CUSTOMER DASHBOARD.png)
 I build Dashboards and reporting Visuals that help stakeholders make quicker and more informed decisions. [Click Here](https://www.linkedin.com/in/dalamu-oluwatosin-a36127283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Data Analytics Training
 
 ## My Project
+Project Dashboards
+![image](BANK TRANSACTION DASHBOARD 3.png)
+![image](BANK TRANSACTION DASHBOARD 2.png)
+![image](BANK TRANSACTION DASHBOARD.png)
 
 ## Contacts
 Email: dalamu.oluwatosin@gmail.com,
