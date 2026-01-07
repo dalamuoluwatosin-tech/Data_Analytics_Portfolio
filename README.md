@@ -16,18 +16,18 @@ Collaborated with cross-functional teams to streamline data management and payro
 
 My combination of analytical expertise and hands-on payroll experience allows me to approach tasks both technically and strategically. I take pride in my attention to detail, problem-solving abilities, and commitment to accuracy—qualities essential for managing sensitive payroll data and complex datasets.
 
-I will be happy to bring my skills to your company, contribute to improving data-driven decision-making and payroll efficiency. I would welcome the chance to discuss how my experience aligns with your needs in more detail.
+I will be happy to bring my skills to your company, contribute to improving data-driven decision-making and payroll efficiency. 
 
 Thank you 
 
 ## SKills
 Data Visualization- PowerBi BI, Excel and MySQL
 ![Image](Screenshot (1).png)
-i build Dashboard and reporting Visuals that helps stakeholders make quicker decisions and faster decisions. [Click Here](https://www.linkedin.com/in/dalamu-oluwatosin-a36127283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+I build Dashboards and reporting Visuals that help stakeholders make quicker and more informed decisions. [Click Here](https://www.linkedin.com/in/dalamu-oluwatosin-a36127283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Data Analytics Training
 
 ## My Project
 
 ## Contacts
-Email: dalamu.oluwatosin@gmail.com
+Email: dalamu.oluwatosin@gmail.com,
 Phone Number: +2348058596046,+2347037814253
