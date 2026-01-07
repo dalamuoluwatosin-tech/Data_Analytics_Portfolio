@@ -22,3 +22,11 @@ Thank you
 
 Sincerely,
 Oluwatosin A. Dalamu
+
+## SKills
+Data Visualization- PowerBi BI, Excel and MySQL
+Data Analytics Training
+
+## Project
+
+## Contacts
