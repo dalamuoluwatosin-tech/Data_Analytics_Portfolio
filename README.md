@@ -20,9 +20,6 @@ I will be happy to bring my skills to your company, contribute to improving data
 
 Thank you 
 
-Sincerely,
-Oluwatosin A. Dalamu
-
 ## SKills
 Data Visualization- PowerBi BI, Excel and MySQL
 Data Analytics Training
