@@ -22,6 +22,7 @@ Thank you
 
 ## SKills
 Data Visualization- PowerBi BI, Excel and MySQL
+![Image](Screenshot (1).png)
 Data Analytics Training
 
 ## Project
