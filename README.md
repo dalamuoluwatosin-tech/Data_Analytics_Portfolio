@@ -17,6 +17,7 @@ Thank you
 ## SKills
 Data Visualization- PowerBi BI, Excel and MySQL
 ![Image](Screenshot (1).png)
+![IMAGE](HR ATTRITION DASHBOARD.png)
 I build Dashboards and reporting Visuals that help stakeholders make quicker and more informed decisions. [Click Here](https://www.linkedin.com/in/dalamu-oluwatosin-a36127283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Data Analytics Training
 
